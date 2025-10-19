@@ -10,6 +10,10 @@ The handshake between frontend and backend occurs through RESTful API endpoints 
 
 https://github.com/kukuu/starwars-AI-backend/blob/main/project-structure.md
 
+## Architecture
+
+
+
 
 ## Repository
 
