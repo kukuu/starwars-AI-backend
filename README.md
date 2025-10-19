@@ -12,7 +12,7 @@ https://github.com/kukuu/starwars-AI-backend/blob/main/project-structure.md
 
 ## Architecture
 
-
+https://github.com/kukuu/starwars-AI-backend/blob/main/architecture.md
 
 
 ## Repository
