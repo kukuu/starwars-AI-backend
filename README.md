@@ -6,6 +6,10 @@ The application's architecture is organized around several key services referenc
 
 The handshake between frontend and backend occurs through RESTful API endpoints defined in the AppController. When users submit queries through the Next.js search interface, requests are routed to the NestJS backend's /search endpoint, which delegates to the OpenAIService. This service intelligently processes prompts - either leveraging OpenAI's LLM for complex queries or using the CharactersService for structured database searches. The backend services collaborate through dependency injection, with the OpenAIService utilizing DatabaseService for data access and returning formatted responses that the frontend displays in an intuitive, styled interface using Tailwind CSS components.
 
+## Project Structure
+
+https://github.com/kukuu/starwars-AI-backend/blob/main/project-structure.md
+
 
 ## Repository
 
